@@ -907,7 +907,7 @@
 									</div>
 								</a>
 								<p>Circle of Hands</p>
-								<h2>24 DEC 2014</h2>
+								<h2>16 Mar 2025</h2>
 							</div>
 						</div>
 						
@@ -922,7 +922,7 @@
 									</div>
 								</a>
 								<p>Circle of Hands</p>
-								<h2>24 DEC 2014</h2>
+								<h2>16 Mar 2025</h2>
 							</div>
 						</div>
 						
@@ -937,7 +937,7 @@
 									</div>
 								</a>
 								<p>Circle of Hands</p>
-								<h2>24 DEC 2014</h2>
+								<h2>16 Mar 2025</h2>
 							</div>
 						</div>
 						
@@ -952,7 +952,7 @@
 									</div>
 								</a>
 								<p>Circle of Hands</p>
-								<h2>24 DEC 2014</h2>
+								<h2>16 Mar 2025</h2>
 							</div>
 						</div>
 					</div>
